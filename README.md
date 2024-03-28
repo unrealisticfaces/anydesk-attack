@@ -11,7 +11,7 @@ pip install pyinstaller
 ```
 ### Export
 ```
-###### pyinstaller --onefile anydesk-attack.py
+pyinstaller --onefile anydesk-attack.py
 ```
 this will export as exe file and located at \dist\anydesk-attack.exe
 
