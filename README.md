@@ -1,9 +1,7 @@
+![](https://komarev.com/ghpvc/?username=unrealisticfaces)
 <h2 align=center><b>Anydesk Attack</b></h2>
 
-### Social Media
-- [ Facebook ](https://wwww.facebook.com/kthdavidx)
-
-##### Make sure to replace the database url and password before exporting it 
+###### Make sure to replace the database url and password before exporting it 
 
 ### Install
 ```
@@ -16,6 +14,7 @@ pyinstaller --onefile anydesk-attack.py
 this will export as exe file and located at \dist\anydesk-attack.exe
 
 
-
+### Social Media
+- [ Facebook ](https://wwww.facebook.com/kthdavidx)
 
 
