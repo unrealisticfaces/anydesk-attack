@@ -3,7 +3,7 @@
 
 ###### Make sure to replace the database url and password before exporting it 
 
-### Install
+### Installation
 ```
 pip install pyinstaller
 ```
