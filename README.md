@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=unrealisticfaces)
-<h2 align=center><b>Anydesk Attack</b></h2>
+# Anydesk attack
 
 ###### Make sure to replace the database url and password before exporting it 
 
