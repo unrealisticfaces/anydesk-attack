@@ -3,8 +3,9 @@
 Anydesk attack is an automation tool used to grab the anydesk id of the target and sets a password to it
 
 ## Features
+- Automatically grab the anydesk id and set a full acess password 
+- This will also set a new password to the current windows user
 - The info will be sent to the firebase database
-- This will also set the password for the current windows user and perform a restart
 
 ## Installation
 ```
