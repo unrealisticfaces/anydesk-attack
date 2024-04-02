@@ -13,7 +13,7 @@ pip install pyinstaller
 ```
 ## Usage
 ```
-- Change the database url and password
+Change the database url and password
 ```
 ## Export
 ```
